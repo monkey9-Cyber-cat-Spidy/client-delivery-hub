@@ -1,0 +1,27 @@
+{
+  "name": "client-delivery-hub",
+  "version": "1.0.0",
+  "description": "A deep dive into multi-tenant client delivery management, SLA monitoring, and milestone sign-offs using Next.js 15, TypeScript, and Tailwind CSS.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "lucide-react": "^0.363.0",
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "typescript": "^5.4.5"
+  }
+}
